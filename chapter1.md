@@ -1,8 +1,8 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Chap 1
+description : Chapter 1
 attachments :
-  slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
+  slides_link : http://www.pdf995.com/samples/pdf.pdf
 
 --- type:MultipleChoiceExercise lang:python xp:50 skills:1 key:c715544e6a
 ## A really bad movie
